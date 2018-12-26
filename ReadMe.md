@@ -1,9 +1,9 @@
 #### Bokeh-Application
 
-paste the file "Bokeh-App.py" and data folder in the location. Open anaconda prompt in the location. Use the below command for the visualisation.
+paste the file "Gap-minder.py" and data folder in the location. Open anaconda prompt in the location. Use the below command for the visualisation.
 
 ```
-bokeh serve --show gap-minder.py
+bokeh serve --show Gap-minder.py
 ```
 
 For auto-mpg dataset
